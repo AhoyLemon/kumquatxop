@@ -280,6 +280,6 @@ main {
 main img.hello {
   max-width: 90vw;
   max-height: 90vh;
-  margin: 5vh auto 0 auto;
+  margin: 0 auto;
   box-shadow: 1vw 1vw 1vw rgba(0, 0, 0, 0.6);
 }
