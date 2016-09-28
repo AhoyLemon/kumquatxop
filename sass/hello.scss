@@ -7,7 +7,7 @@
 @import "globals/_defaults";
 
 //PARTIALS
-body { background-image:url('/img/hi.jpg'); background-repeat: repeat; }
+body { background-image:url('/img/hi.jpg'); background-repeat: repeat; background-position:center;  }
 main { height: 100vh; @include flex-container(center);
   img.hello { max-width: 90vw; max-height: 90vh; margin: 0 auto; box-shadow:1vw 1vw 1vw rgba(0,0,0,0.6); }
 }
